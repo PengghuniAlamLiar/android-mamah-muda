@@ -6,7 +6,7 @@ downloaded from [here](https://developer.android.com/studio/).
 License
 -------
 
-Copyright 2018 Penghuni ALam Liar,
+Copyright 2019 Penghuni Alam Liar,
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
